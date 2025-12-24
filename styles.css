@@ -1,0 +1,20 @@
+form {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+form select {
+  width: 150px;
+  padding: 5px;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: black;
+}
